@@ -11,5 +11,5 @@ jobs:
         uses: namezzy/waka-box@master
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GIST_ID: 99764965194a5d609fe1ed548593fd4b
+          GIST_ID:99764965194a5d609fe1ed548593fd4b
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
